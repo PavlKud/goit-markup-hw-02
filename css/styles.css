@@ -21,20 +21,20 @@ a {
 }
 
 .header-logo {
-color: #2E2F42;
-font-family: Raleway;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.16; 
-letter-spacing: -0.03em;
-text-transform: uppercase;
-}
-.span {
 color: #4D5AE5;
 font-family: Raleway;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16; 
+line-height: 1.17; 
+letter-spacing: -0.03em;
+text-transform: uppercase;
+}
+.span {
+color: #2E2F42;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17; 
 letter-spacing: -0.03em;
 text-transform: uppercase;
 }
@@ -182,7 +182,7 @@ text-transform: capitalize;
 .footer {
 background:#2E2F42;
 }
-.footer-logo{
+.span{
   color:#F4F4FD;
   font-size: 18px;
   font-weight: 700;
