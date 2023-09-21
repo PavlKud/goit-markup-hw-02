@@ -30,7 +30,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .span {
-color: #2E2F42;
+color: #2e2f42;
 }
 
 .header-list {
@@ -64,7 +64,8 @@ color: #2E2F42;
 /**-------main------*/
 
 .main {
-background:#2E2F42;
+background-color: #4D5AE5,
+
 }
 .main-title {
 color:#FFF;
