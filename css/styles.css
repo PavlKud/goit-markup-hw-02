@@ -138,8 +138,39 @@ font-weight: 400;
 line-height: 1.50; 
 letter-spacing: -0.02;
 }
+
 /**-------section 3------*/
 
+.portfolio {
+}
+.portfolio-title {
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11; 
+letter-spacing: 0.02;
+text-transform: capitalize;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-list-image {
+}
+.portfolio-list-title {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.20; 
+  letter-spacing: 0.02;
+}
+.portfolio-list-article {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.50; 
+  letter-spacing: 0.02;
+}
+
+/**-------section 4------*/
 .portfolio {
 }
 .portfolio-title {
