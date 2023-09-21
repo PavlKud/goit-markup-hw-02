@@ -1,4 +1,5 @@
 body {
+  background-color:#FFFFFF; 
   color:#434455;
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -30,6 +31,12 @@ text-transform: uppercase;
 }
 .span {
 color: #4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; 
+letter-spacing: -0.03em;
+text-transform: uppercase;
 }
 
 .header-list {
