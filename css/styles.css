@@ -35,16 +35,12 @@ a {
 
 .header-list {
 }
-.header-list-item {
-  color: #2e2f42;
+.header-list-item:hover {
+  color: #404bbf;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.header-list-item:hover,
-.header-list-item:focus {
-  color: #404bbf;
 }
 
 .address {
