@@ -131,7 +131,7 @@ a {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .team-list {
@@ -145,14 +145,14 @@ a {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .team-list-article {
   text-align: center;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 /**-------section 3------*/
@@ -164,7 +164,7 @@ a {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio-list {
@@ -177,44 +177,15 @@ a {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .portfolio-list-article {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
-/**-------section 4------*/
-.portfolio {
-}
-.portfolio-title {
-  text-align: center;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02;
-  text-transform: capitalize;
-}
-.portfolio-list {
-}
-.portfolio-list-item {
-}
-.portfolio-list-image {
-}
-.portfolio-list-title {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02;
-}
-.portfolio-list-article {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02;
-}
 /**-------footer------*/
 
 .footer {
