@@ -124,7 +124,9 @@ a {
 
 /*-------section 2------*/
 .team {
-  background-color: #F4F4FD
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #F4F4FD;
 }
 .team-title {
   color: #2e2f42; 
@@ -136,10 +138,12 @@ a {
   text-transform: capitalize;
 }
 .team-list {
+ 
   
 }
 .team-list-item {
-  background-color: #FFFFFF
+  background-color:#FFFFFF;
+  
 }
 .team-list-image {
 }
