@@ -74,7 +74,7 @@ a {
 /*-------main------*/
 
 .main {
-  background-color: #4D5AE5;
+  background-color:#4D5AE5;
 }
 .main-title {
   color: #fff;
@@ -85,6 +85,7 @@ a {
   letter-spacing: 0.02em;
 }
 .button {
+  background-color: #4D5AE5;
   color: #ffffff;   
   font-size: 16px; 
   font-weight: 500;
