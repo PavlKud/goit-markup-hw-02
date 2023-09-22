@@ -74,7 +74,7 @@ a {
 /*-------main------*/
 
 .main-page {
-  background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 .main-title {
   color: #fff;
@@ -85,7 +85,7 @@ a {
   letter-spacing: 0.02em;
 }
 .button {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   color: #ffffff;
   font-size: 16px;
   font-weight: 500;
@@ -102,14 +102,14 @@ a {
 .advant {
 }
 .advant-title {
+  color: #2e2f42;
 }
 .advant-list {
-
 }
 .advant-list-item {
 }
 .advant-list-title {
-  color:  #2e2f42;
+  
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
