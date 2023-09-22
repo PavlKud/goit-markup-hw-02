@@ -104,10 +104,12 @@ a {
 .advant-title {
 }
 .advant-list {
+
 }
 .advant-list-item {
 }
 .advant-list-title {
+  color:  #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
